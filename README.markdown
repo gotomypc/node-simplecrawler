@@ -1,3 +1,5 @@
+# 有价值的地方是这里的archive功能，可以参考。
+
 # Simple web-crawler for node.js
 
 Simplecrawler is designed to provide the most basic possible API for crawling websites, while being as flexible and robust as possible. I wrote simplecrawler to archive, analyse, and search some very large websites. It has happily chewed through 50,000 pages and written tens of gigabytes to disk without issue.
